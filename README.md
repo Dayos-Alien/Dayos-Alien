@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dayos-Alien
+- 👋 Hi, I’m @Baby-Alien
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning JavaScript, 
 - 💞️ I’m looking to collaborate on the project with intresting results that possibly improve user experience
